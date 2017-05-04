@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task2module</string>
+    <string name="permiss_label">Label</string>
+    <string name="permiss_description">Necessary to start activity</string>
+    <string name="edit_email">Enter email</string>
+    <string name="edit_theme">Enter theme</string>
+    <string name="btn_send">Send email</string>
+</resources>
